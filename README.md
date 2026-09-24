@@ -1,3 +1,3 @@
-"# git-projekt--Kubala_N-mec_Nov-ek-" 
-"# git-projekt--Kubala_N-mec_Nov-ek-" 
-"# git-projekt--Kubala_N-mec_Nov-ek-" 
+"# projekt na zkouseni githubu" 
+"# Autori - Kubala Nemec Novacek" 
+"# stahnes si to" 
