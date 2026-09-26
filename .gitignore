@@ -1,1 +1,16 @@
--e ".idea/\n*.log\nnode_modules/\nvenv/" 
+# Web / Node.js
+node_modules/
+dist/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code & Editory
+.vscode/
+.idea/
+
+# OS balast
+Thumbs.db
