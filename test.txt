@@ -1,4 +1,3 @@
-jo mam novejsi text
+jo mam nejnovejsi text
 
-
-jeste nejaky dulezity kod
+uplne jiny kod
