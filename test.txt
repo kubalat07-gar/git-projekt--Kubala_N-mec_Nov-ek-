@@ -1,1 +1,4 @@
-jo mam novy text
+jo mam novejsi text
+
+
+jeste nejaky dulezity kod
